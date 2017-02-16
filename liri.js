@@ -78,7 +78,7 @@ function spotifyThis(value) {
 // omdb
 function omdbThis(value) {
     if (value == null) {
-        value = 'wargames';
+        value = 'star-wars';
     }
     request('http://www.omdbapi.com/?t=' + value + '&tomatoes=true&r=json', function(error, response, body) {
         if (!error && response.statusCode == 200) {

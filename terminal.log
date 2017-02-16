@@ -201,3 +201,57 @@ Created at: Sun Jan 10 22:08:10 +0000 2016
 Created at: Wed Sep 30 19:47:26 +0000 2015 
 =============== LOG ENTRY END ===============
  
+=============== LOG ENTRY BEGIN ===============
+Wed Feb 15 2017 20:11:18 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,spotify-this-song
+ 
+DATA OUTPUT:
+Artist: Zapp
+Song: Computer Love
+Preview Link: https://p.scdn.co/mp3-preview/c23d195cc0b87c38fd56aaa0d1dd8b7f1fb4f898?cid=null
+Album: All The Greatest Hits
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 18:23:35 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: How is it that @facebook hasn't figured out how to properly display phone emojis on other devices!? #yourebetterthanthat
+Created at: Thu Aug 18 14:25:05 +0000 2016 
+2. Tweet: RT @VeryLonelyLuke: When I told Leia we were siblings, she said, "Somehow, I've always known"
+
+I said, "And you still kissed me?"
+
+"Don't m…
+Created at: Thu Apr 07 16:32:26 +0000 2016 
+3. Tweet: "Pants" means "Undies" in UK. Know your regional nuances! #MerkleDigital16
+Created at: Thu Mar 31 16:37:46 +0000 2016 
+4. Tweet: @MerkleCRM #mybackhurts #ineedanewmattress @mattressjack help! 😆 #MerkleDigital16
+Created at: Thu Mar 31 15:00:38 +0000 2016 
+5. Tweet: @MerkleCRM "my mom is the user" "the user is drunk" - make it simple stupid. Reduce friction for consumers. #MerkleDigital16
+Created at: Thu Mar 31 13:47:57 +0000 2016 
+6. Tweet: @MerkleCRM it's called MerkleOne and it has a M1 data marketing cloud. #MerkleDigital16 #MerkleTrivia
+Created at: Thu Mar 31 13:36:02 +0000 2016 
+7. Tweet: RT @dan_patterson: Nomophobia: a fear of being without mobile device, power source, or service area #MerkleDigital16
+Created at: Thu Mar 31 13:29:15 +0000 2016 
+8. Tweet: @gallate could listen to that accent all day! Great talk on China. #MerkleDigital16
+Created at: Wed Mar 30 18:58:01 +0000 2016 
+9. Tweet: RT @MerkleCRM: Justin Thomas: #Smartphones should be called smart devices! 90% of time spent on #apps, &lt;10% spent making phone calls. #Merk…
+Created at: Wed Mar 30 17:58:40 +0000 2016 
+10. Tweet: @jimmyfallon meant to wear shorts under dress .. Forgot to put on. Lifted dress over my head &amp; flashed the brides whole family. #WeddingFail
+Created at: Wed Mar 30 13:58:25 +0000 2016 
+11. Tweet: @Spotify if you're going to make us listen to crappy ads, at least update them every once in a while. #sickofsameoldads
+Created at: Mon Mar 07 19:51:11 +0000 2016 
+12. Tweet: RT @ItsJennaMarbles: bread is so fucking good man I could prob eat an entire bakery in 25 minutes or less
+Created at: Fri Feb 12 20:17:50 +0000 2016 
+13. Tweet: @FOXSports did y'all just give up on commentary for Green Bay Washington game?
+Created at: Sun Jan 10 22:08:10 +0000 2016 
+14. Tweet: LJ- "It tastes like when you accidentally lick your arm after applying sunscreen!" Me- "How often do you do that?"
+Created at: Wed Sep 30 19:47:26 +0000 2015 
+=============== LOG ENTRY END ===============
+ 

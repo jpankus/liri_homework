@@ -1,0 +1,96 @@
+=============== LOG ENTRY BEGIN ===============
+Wed Feb 15 2017 20:11:42 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this
+DATA OUTPUT:
+Title: WarGames
+Year: 1983
+IMDb Rating: 7.1
+Country: USA
+Language: English
+Plot: A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
+Actors: Matthew Broderick, Dabney Coleman, John Wood, Ally Sheedy
+Rotten Tomatoes Rating: 7.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/wargames/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Feb 15 2017 20:11:54 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this
+DATA OUTPUT:
+Title: WarGames
+Year: 1983
+IMDb Rating: 7.1
+Country: USA
+Language: English
+Plot: A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
+Actors: Matthew Broderick, Dabney Coleman, John Wood, Ally Sheedy
+Rotten Tomatoes Rating: 7.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/wargames/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 18:24:08 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this
+DATA OUTPUT:
+Title: WarGames
+Year: 1983
+IMDb Rating: 7.1
+Country: USA
+Language: English
+Plot: A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
+Actors: Matthew Broderick, Dabney Coleman, John Wood, Ally Sheedy
+Rotten Tomatoes Rating: 7.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/wargames/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 18:25:00 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this,starwars
+DATA OUTPUT:
+Title: The StarWars Adventures
+Year: 2016
+IMDb Rating: N/A
+Country: UK
+Language: English
+Plot: After splitting the Battalion into four companies, Thunder Company, under the command of Captain Mandeville,was sent to investigate Decks 300 to 600. To achieve this in the quickest ...
+Actors: Ron Arthurs, Johnathan Beetles, Jake Gosden, Matt Jackson
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 18:25:39 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this,Star,Wars
+DATA OUTPUT:
+Title: Star
+Year: 2001
+IMDb Rating: 7.8
+Country: USA
+Language: English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the-hire-star/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 18:26:44 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this
+DATA OUTPUT:
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDb Rating: 8.7
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Rotten Tomatoes Rating: 8.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/star_wars/
+ =============== LOG ENTRY END ===============
+ 
