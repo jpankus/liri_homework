@@ -94,3 +94,35 @@ Rotten Tomatoes Rating: 8.6
 Rotten Tomatoes URL: http://www.rottentomatoes.com/m/star_wars/
  =============== LOG ENTRY END ===============
  
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 20:15:41 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this,Star,Wars
+DATA OUTPUT:
+Title: Star
+Year: 2001
+IMDb Rating: 7.8
+Country: USA
+Language: English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the-hire-star/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Feb 16 2017 20:16:29 GMT-0500 (EST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/7.0.0/bin/node,/Users/jessica/Desktop/liri_homework/liri.js,movie-this,StarWars
+DATA OUTPUT:
+Title: The StarWars Adventures
+Year: 2016
+IMDb Rating: N/A
+Country: UK
+Language: English
+Plot: After splitting the Battalion into four companies, Thunder Company, under the command of Captain Mandeville,was sent to investigate Decks 300 to 600. To achieve this in the quickest ...
+Actors: Ron Arthurs, Johnathan Beetles, Jake Gosden, Matt Jackson
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+ =============== LOG ENTRY END ===============
+ 

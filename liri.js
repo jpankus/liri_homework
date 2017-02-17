@@ -57,7 +57,7 @@ function myTweets() {
 // spotify
 function spotifyThis(value) {
     if (value == null) {
-        value = 'computer love';
+        value = 'blank space';
     }
     request('https://api.spotify.com/v1/search?q=' + value + '&type=track', function(error, response, body) {
         if (!error && response.statusCode == 200) {
@@ -107,7 +107,7 @@ function random() {
             console.log(error);
         } else {
             var dataArr = data.split(',');
-            if (dataArr[0] === 'spotify') {
+            if (dataArr[0] === 'spotify-this-song') {
                 spotifyThis(dataArr[1]);
             }
             if (dataArr[0] === 'omdb') {
